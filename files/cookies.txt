@@ -1,5 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-ais.osym.gov.tr	TRUE	/	FALSE	1999999999	__RequestVerificationToken	4j1g-ZMpfRZjOnhGRRnyeEJqSeeMH4ZZOVfY34351SfwiB2t9-WM0bSF7p3emHYwZ30Gtp4xc6UKEqLo8xquvDOphZE1
-ais.osym.gov.tr	TRUE	/	FALSE	1999999999	2XY	Tz2qQDRw16AFykbiwZfXBbnGSyftODqJFPnCWDT4JQurMplWFKLtNq4VbVvVxX/6pDC0QonNCYpJALW7Qa62+iiuoM3f1dgHGVLIgkN6PgKjYnOiVn04BzYII+Tjn28M
-
